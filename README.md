@@ -1,7 +1,7 @@
-# <img src="https://github.com/images/mona-whisper.gif" width="50" height="50"> Hey there!
+# <img src="https://github.com/images/mona-whisper.gif" width="50" height="50" autoplay loop> Hey there!
 ### I'm h2, and let me introduce myself real quick...
 
-<img src="https://i.gifer.com/8V60.gif" width="500"></img>
+<img src="https://i.gifer.com/8V60.gif" width="500" autoplay loop></img>
 
 > CLI & Web | Multilingual | Based in 🇫🇮 **Finland**  
 > Specializing in advanced **DDoS protection & traffic analysis**
