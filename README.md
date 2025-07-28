@@ -3,6 +3,7 @@
   <h1><img src="https://github.com/images/mona-whisper.gif" width="50" height="50" autoplay loop> Hey there!</h1><br>
   <img src="https://i.gifer.com/8V60.gif" width="300" autoplay loop></img><br>
   <h3>I'm h2, and let me introduce myself real quick...</h3>
+  <img alt="followers" src="https://img.shields.io/github/followers/h2sockets?label=Followers&style=social">‎‎  ‎ <img src="https://img.shields.io/github/stars/h2sockets?label=Stars" alt="stars">‎‎
 </div>
 
 > CLI & Web | Multilingual | Based in 🇫🇮 **Finland**  
@@ -84,6 +85,10 @@ gcc -o h2sockets h2sockets.c -pthread
 ```
 
 </details>
+
+---
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-fr/artist/79NIVAOefeJgwo0QIIZ9t2)
 
 ---
 
