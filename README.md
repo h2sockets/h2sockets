@@ -88,7 +88,9 @@ gcc -o h2sockets h2sockets.c -pthread
 
 ---
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-fr/artist/79NIVAOefeJgwo0QIIZ9t2)
+<div align="center">
+        <img id="example-view" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nem6usymz3ldj4abut5w47pgci&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;bar_color=53b14f&amp;bar_color_cover=false">
+</div>
 
 ---
 
@@ -100,12 +102,13 @@ gcc -o h2sockets h2sockets.c -pthread
 ---
 
 ## 🐍 Contribution Snake
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h2sockets/h2sockets/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h2sockets/h2sockets/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/h2sockets/h2sockets/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
 ---
 
@@ -115,3 +118,5 @@ If you find my work useful, consider dropping a star 🌟
 Your feedback and collaboration are always welcome!
 
 ---
+
+![Moe Counter](https://count.getloli.com/@h2sockets-readme-widget-hub)
