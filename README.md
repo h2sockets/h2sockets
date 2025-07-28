@@ -1,16 +1,96 @@
-## Hi there 👋
+# <img src="https://github.com/images/mona-whisper.gif" width="50" height="50"> Hey there!
+### I'm h2, and let me introduce myself real quick...
 
-<!--
-**h2sockets/h2sockets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> CLI & Web | Multilingual | Based in 🇫🇮 **Finland**  
+> Specializing in advanced **DDoS protection & traffic analysis**
 
-Here are some ideas to get you started:
+---
+<details>
+  <summary><strong>🌱 Capabilities</strong></summary>
+  
+```
+## 🛠️ Development Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Platforms: CLI tools & Web apps
+- Development: Full-Stack (strong point in: javascript, elixir and web languages)
+- OS: Artix & W11
+
+---
+
+## 🌐 Spoken Languages
+
+- 🇫🇮 Finnish (Suomi)  
+- 🇬🇧 English  
+- 🇫🇷 French
+
+---
+
+## 🔐 Domain Focus
+
+- 🛡️ DDoS Protection  
+- 📊 Network Analysis  
+- 🔍 Deep Protocol Inspection 
+- ⚙️ Real-Time Traffic Intelligence
+
+---
+
+## 🚀 Content
+
+- ⚡ High-performance CLI tools for many purposes
+- 🌍 Scalable web interfaces for various needs
+- 🔁 Multi-language backend integration  
+- 💾 Efficient low-level tooling (Assembly / C)  
+- 🧬 Custom protocol analyzers  
+- 🕸️ Web/API layer protection  
+```
+
+</details>
+
+---
+
+<details>
+  <summary><strong>📦 Installation & Usage</strong></summary>
+
+```bash
+# Clone the repo
+git clone https://github.com/h2sockets/h2sockets.git
+cd h2sockets
+
+# Setup
+gcc -o h2sockets h2sockets.c -pthread
+
+# Run
+./h2sockets
+```
+
+> Now you can use me! :)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>⚙️ Supported Environments</strong></summary>
+
+- 🐧 Linux (Ubuntu, Arch, Alpine)  
+- 🪟 Windows 10+  
+- 🍎 macOS (M1+ supported)  
+- 🐳 Docker & VM compatible  
+
+</details>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [h2socket@tuta.io](mailto:h2socket@tuta.io)  
+- 💬 Telegram: [t.me/h2sockets](https://t.me/h2sockets)
+
+---
+
+## ⭐ Support
+
+If you find my work useful, consider dropping a star 🌟  
+Your feedback and collaboration are always welcome!
+
+---
