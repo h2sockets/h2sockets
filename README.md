@@ -112,6 +112,11 @@ gcc -o h2sockets h2sockets.c -pthread
 
 ---
 
+## 🏆 Trophies
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=h2sockets)
+
+---
+
 ## ⭐ Support
 
 If you find my work useful, consider dropping a star 🌟  
