@@ -10,7 +10,7 @@
 <details>
   <summary><strong>🌱 Capabilities</strong></summary>
   
-```
+```ruby
 ## 🛠️ Development Stack
 
 - Platforms: CLI tools & Web apps
@@ -74,10 +74,12 @@ gcc -o h2sockets h2sockets.c -pthread
 <details>
   <summary><strong>⚙️ Supported Environments</strong></summary>
 
+```elixir
 - 🐧 Linux (Ubuntu, Arch, Alpine)  
 - 🪟 Windows 10+  
 - 🍎 macOS (M1+ supported)  
-- 🐳 Docker & VM compatible  
+- 🐳 Docker & VM compatible
+```
 
 </details>
 
